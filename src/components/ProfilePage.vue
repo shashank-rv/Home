@@ -2,7 +2,7 @@
   <a-layout id="components-layout-top" class="layout">
     <a-layout-header class="app-header">
       <div class="logo">
-        <h2>Hruday</h2>
+        <h2>Shashank VSR</h2>
       </div>
       <HeaderNavigation />
     </a-layout-header>
