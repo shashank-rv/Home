@@ -8,6 +8,7 @@
     </a-layout-header>
     <a-layout-content style="padding: 5rem">
       <div :style="{ background: '#fff', padding: '24px', minHeight: '280px' }">
+                <img src = "../assets/IMG_20191227_093220.jpg" class = "rounded-circle" alt = "Cinque Terre" width = "280" height = "400">
         <ShowcaseCards />
       </div>
     </a-layout-content>
